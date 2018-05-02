@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\obj\Debug\ConsolePolymorphism3.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\obj\Debug\ConsolePolymorphism3.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\bin\Debug\ConsolePolymorphism3.exe.config
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\bin\Debug\ConsolePolymorphism3.exe
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\bin\Debug\ConsolePolymorphism3.pdb
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\obj\Debug\ConsolePolymorphism3.exe
+C:\Users\Ben\source\repos\ConsolePolymorphism3\ConsolePolymorphism3\obj\Debug\ConsolePolymorphism3.pdb
